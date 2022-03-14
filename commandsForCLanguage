@@ -1,0 +1,3 @@
+$clang filename => to compile file 
+$./compiledfile.out =>to run a compiled file 
+clang -o hello[new out 'compiled file' name] hello.c[file name] =>to rename out file
